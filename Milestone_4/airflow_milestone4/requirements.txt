@@ -1,0 +1,11 @@
+scikit-learn
+dash
+pyarrow<10.1.0,>=10.0.1
+pandas
+numpy 
+seaborn
+matplotlib
+googlemaps
+SQLAlchemy
+psycopg2-binary
+plotly
